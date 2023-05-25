@@ -1,0 +1,106 @@
+{
+  "unpublishedPage": {
+    "name": "全部商品",
+    "icon": "apps-o",
+    "slug": "",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1200,
+          "containerStyle": "none",
+          "snapRows": 119,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 77,
+          "minHeight": 1210,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "list1",
+              "buttonColor": "#03b365",
+              "isCanvas": false,
+              "displayName": "列表",
+              "iconSVG": "/static/media/icon.9925ee17dee37bf1ba7374412563a8a7.svg",
+              "searchTags": [
+                "list"
+              ],
+              "topRow": 0,
+              "bottomRow": 120,
+              "parentRowSpace": 10,
+              "type": "TARO_LIST_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "titleColor": "#646566",
+              "leftColumn": 0,
+              "dynamicBindingPathList": [],
+              "isMobile": true,
+              "contentType": "I_N_D",
+              "key": "iqvhvynb6w",
+              "height": "80px",
+              "isDeprecated": false,
+              "rightColumn": 64,
+              "inset": false,
+              "priceColor": "#DD4B34",
+              "widgetId": "f01a8xl4r9",
+              "descriptionKey": "description",
+              "descriptionColor": "#999",
+              "isVisible": true,
+              "list": [
+                {
+                  "url": "",
+                  "name": "标题",
+                  "description": "描述"
+                },
+                {
+                  "url": "",
+                  "name": "标题",
+                  "description": "描述"
+                },
+                {
+                  "url": "",
+                  "name": "标题",
+                  "description": "描述"
+                },
+                {
+                  "url": "",
+                  "name": "标题",
+                  "description": "描述"
+                }
+              ],
+              "titleKey": "name",
+              "parentId": "0",
+              "urlKey": "url",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "controlType": "BUTTON",
+              "width": "100px"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "全部商品",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "646f27cdead3a829687fd2a9_646f2821ead3a829687fd2ae"
+}

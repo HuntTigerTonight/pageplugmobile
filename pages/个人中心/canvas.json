@@ -1,0 +1,98 @@
+{
+  "unpublishedPage": {
+    "name": "个人中心",
+    "icon": "user-circle-o",
+    "slug": "",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 380,
+          "containerStyle": "none",
+          "snapRows": 119,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 77,
+          "minHeight": 1210,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "kv1",
+              "kColor": "#666",
+              "kKey": "key",
+              "vBold": true,
+              "isCanvas": false,
+              "displayName": "键值对",
+              "iconSVG": "/static/media/icon.422ac79b42f76dc1861d3266306aeaa3.svg",
+              "kSize": "PARAGRAPH",
+              "kAlign": "LEFT",
+              "searchTags": [
+                "kv",
+                "text",
+                "文本",
+                "field"
+              ],
+              "topRow": 0,
+              "bottomRow": 24,
+              "parentRowSpace": 10,
+              "type": "TARO_KV_WIDGET",
+              "vColor": "#333",
+              "vAlign": "LEFT",
+              "hideCard": false,
+              "kBold": false,
+              "parentColumnSpace": 6.84375,
+              "leftColumn": 0,
+              "dynamicBindingPathList": [],
+              "isMobile": true,
+              "key": "ril25uyzus",
+              "isDeprecated": false,
+              "rightColumn": 63,
+              "inset": false,
+              "widgetId": "uur50x1hsi",
+              "isVisible": true,
+              "list": [
+                {
+                  "key": "绿蚁新醅酒",
+                  "value": "红泥小火炉"
+                },
+                {
+                  "key": "晚来天欲雪",
+                  "value": "能饮一杯无"
+                }
+              ],
+              "version": 1,
+              "parentId": "0",
+              "layout": "h",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "vSize": "PARAGRAPH",
+              "vKey": "value"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "个人中心",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "646f27cdead3a829687fd2a9_646f2886ead3a829687fd2b4"
+}
